@@ -3,7 +3,7 @@
 @Author: Huang
 @dev: python3 vscode
 @Date: 2019-11-06 20:00:17
-@LastEditTime: 2019-11-07 19:33:18
+@LastEditTime: 2019-11-08 14:22:17
 @FilePath: \\机器学习实战\\08-线性回归\\regression.py
 @Descripttion: 线性回归
 '''
